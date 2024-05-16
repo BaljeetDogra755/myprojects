@@ -1,0 +1,383 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+@media(max-width:420px)
+{#online {
+    height: 60px;
+    width: 100%;
+    border: 2px solid rgba(245, 245, 220, 0.669);
+    display: flex;
+    background-color: rgba(245, 245, 220, 0.669);
+    position: fixed;
+    margin-top: -20px;};
+    
+};
+
+
+
+#online {
+    height: 60px;
+    width: 100%;
+    border: 2px solid rgba(245, 245, 220, 0.669);
+    display: flex;
+    background-color: rgba(245, 245, 220, 0.669);
+    position: fixed;
+    margin-top: -20px;
+}
+
+
+#the {
+    height: 90px;
+    width: 250px;
+    margin-top: -15px;
+}
+
+#one {
+    margin-left: 10px;
+    margin-top: 20px;
+
+}
+
+#am {
+    margin-top: 50px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.app {
+    margin-top: -580px;
+    font-size: 60px;
+    margin-left: 180px;
+}
+
+.and {
+    margin-left: 180px;
+    font-size: 25px;
+    margin-top: 35px;
+}
+
+.seven {
+    height: 40px;
+    width: 140px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 90px;
+    background-color: rgb(76, 220, 76);
+}
+
+.bb {
+    margin-left: 220px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.hide {
+    display: flex;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.five {
+    height: 30px;
+    width: 150px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 100px;
+    background-color: rgb(41, 131, 41);
+    color: white;
+}
+
+.is {
+    margin-top: -600px;
+    margin-bottom: 950px;
+    margin-left: 950px;
+    height: 40px;
+}
+
+.image {
+    margin-bottom: 1080px;
+    margin-top: -100%;
+    margin-left: 800px;
+}
+
+.abhi {
+    margin-top: -800px;
+    margin-bottom: 990px;
+    margin-left: 800px;
+    height: 50px;
+    width: 400px;
+}
+
+.this {
+    height: 250px;
+    width: 400px;
+    margin-left: 800px;
+    margin-top: -190px;
+    margin-bottom: 50px;
+}
+
+.text {
+    height: 60px;
+    width: 500px;
+    margin-bottom: 100%;
+    margin-top: -45%;
+    margin-left: 670px;
+}
+
+.qq {
+    width: 80%;
+    margin-top: -100%;
+    margin-bottom: 74%;
+    margin-left: 160px;
+}
+
+.cc {
+    margin-top: -75%;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.zz {
+    width: 80%;
+    margin-left: 160px;
+}
+
+#insert {
+    margin-top: 18%;
+    font-size: 50px;
+    margin-left: 200px;
+}
+
+.ten {
+    margin-left: 950px;
+    margin-top: -350px;
+}
+
+.mba {
+    margin-top: -300px;
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+#pp {
+    height: 740px;
+    width: 100%;
+    border: 2px solid black;
+    background-color: rgb(27, 26, 26);
+    margin-top: 250px;
+}
+
+.ii {
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+h1 {
+    margin-left: 300px;
+    margin-top: -30%;
+    font-size: 60px;
+    color: white;
+}
+
+.ff {
+    margin-left: 780px;
+    font-size: 50px;
+    color: green;
+}
+
+.ee {
+    margin-left: 780px;
+    font-size: 30px;
+    color: white;
+}
+
+.gg {
+    font-size: 55px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.kk {
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.num {
+    margin-left: 950px;
+    margin-top: -350px;
+    border-radius: 20px;
+    width: 350px;
+    height: 600px;
+}
+
+.pic {
+    margin-left: 950px;
+    margin-top: -550px;
+    border-radius: 20px;
+    width: 400px;
+    height: 500px;
+}
+
+.boss {
+    font-size: 40px;
+    margin-left: 800px;
+    margin-top: 20%;
+}
+
+.jack {
+    font-size: 20px;
+    margin-left: 800px;
+}
+
+.shree {
+    margin-left: 300px;
+    margin-top: -400px;
+}
+
+.jai {
+    margin-left: -350px;
+    height: 350px;
+    width: 350px;
+    margin-top: -30%;
+    margin-bottom: 200px;
+}
+
+section {
+    height: 450px;
+    width: 100%;
+    border: 2px solid black;
+    background-color: black;
+}
+
+.what {
+    margin-top: 2%;
+    margin-bottom: -150px;
+    margin-left: 180px;
+    width: 200px;
+}
+
+.war {
+    margin-left: 200px;
+    margin-top: -20px;
+    height: 30px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: rgb(59, 204, 59);
+}
+
+#we {
+    margin-top: 110px;
+}
+
+.navbar {
+    color: white;
+    margin-left: 430px;
+    display: flex;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#use {
+    margin-left: 200px;
+    margin-top: -165px;
+}
+
+#about {
+    margin-left: 400px;
+    margin-top: -165px;
+}
+
+#crlf {
+    margin-left: 630px;
+    margin-top: -169px;
+}
+
+#shift {
+    display: flex;
+}
+
+.private {
+    color: white;
+    margin-top: 50px;
+    margin-left: 170px;
+}
+
+.privately {
+    color: white;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#twi {
+    height: 40px;
+    width: 40px;
+    border: 2px solid white;
+    border-radius: 100%;
+    margin-left: 650px;
+    margin-top: -30px;
+}
+
+#twitter {
+    color: white;
+    margin-left: 13px;
+    margin-top: 12px;
+}
+
+#you {
+    height: 40px;
+    width: 40px;
+    border: 2px solid white;
+    border-radius: 100%;
+    margin-left: 720px;
+    margin-top: -45px;
+}
+
+#youtube {
+    margin-top: 12px;
+    margin-left: 11px;
+    color: white;
+}
+
+#insta {
+    height: 40px;
+    width: 40px;
+    border: 2px solid white;
+    border-radius: 100%;
+    margin-left: 790px;
+    margin-top: -45px;
+}
+
+#instagram {
+    color: white;
+    margin-top: 12px;
+    margin-left: 12.3px;
+}
+
+#face {
+    height: 40px;
+    width: 40px;
+    border: 2px solid white;
+    border-radius: 100%;
+    margin-left: 860px;
+    margin-top: -45px;
+}
+
+#facebook {
+    color: white;
+    margin-left: 12px;
+    margin-top: 11px;
+}
+.end{ 
+   
+    margin-left: 68%;
+    display: flex;
+    margin-top:-45px ;}
+.lastbutton {height: 40px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: rgba(31, 30, 30, 0);
+    color: white;
+    font-size: 20px;
+}
